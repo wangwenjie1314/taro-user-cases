@@ -1,6 +1,13 @@
 const userCases = {
   微信小程序: [
     {
+      name: "小姐姐美女精选",
+      url: "https://img30.360buyimg.com/img/jfs/t1/164654/29/1214/71116/5ff57325E70ecc84a/f0b396fa6944fb3e.jpg",
+      framework: "",
+      taroVersion: "v2.0.6",
+      screenshot: []
+    },
+    {
       name: "智论文",
       url: "https://img14.360buyimg.com/ling/jfs/t1/146255/9/19809/27760/5fe2ef2eE14a836fd/e20064d235617827.png",
       framework: "",
